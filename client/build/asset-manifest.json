@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thirteenFrontLoginRegister/static/css/main.49290985.chunk.css",
+    "main.js": "/thirteenFrontLoginRegister/static/js/main.0ff444b6.chunk.js",
+    "main.js.map": "/thirteenFrontLoginRegister/static/js/main.0ff444b6.chunk.js.map",
+    "runtime-main.js": "/thirteenFrontLoginRegister/static/js/runtime-main.5ab382cf.js",
+    "runtime-main.js.map": "/thirteenFrontLoginRegister/static/js/runtime-main.5ab382cf.js.map",
+    "static/js/2.d9ecf7f0.chunk.js": "/thirteenFrontLoginRegister/static/js/2.d9ecf7f0.chunk.js",
+    "static/js/2.d9ecf7f0.chunk.js.map": "/thirteenFrontLoginRegister/static/js/2.d9ecf7f0.chunk.js.map",
+    "index.html": "/thirteenFrontLoginRegister/index.html",
+    "precache-manifest.e7a06caf6ad22a02c3934dd54d883eb8.js": "/thirteenFrontLoginRegister/precache-manifest.e7a06caf6ad22a02c3934dd54d883eb8.js",
+    "service-worker.js": "/thirteenFrontLoginRegister/service-worker.js",
+    "static/css/main.49290985.chunk.css.map": "/thirteenFrontLoginRegister/static/css/main.49290985.chunk.css.map",
+    "static/js/2.d9ecf7f0.chunk.js.LICENSE.txt": "/thirteenFrontLoginRegister/static/js/2.d9ecf7f0.chunk.js.LICENSE.txt",
+    "static/media/eddieLogo.png": "/thirteenFrontLoginRegister/static/media/eddieLogo.bb3dc6ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab382cf.js",
+    "static/js/2.d9ecf7f0.chunk.js",
+    "static/css/main.49290985.chunk.css",
+    "static/js/main.0ff444b6.chunk.js"
+  ]
+}

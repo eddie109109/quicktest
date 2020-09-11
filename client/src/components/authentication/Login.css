@@ -1,0 +1,75 @@
+.login_button {
+  background-color: #0641ad;
+  color: white;
+  padding: 10px;
+  border-radius: 99px;
+  border: 1px solid #0641ad;
+  outline-width: 0;
+  transition: 0.3s;
+  width: 150px;
+  margin: 0 auto;
+  margin-top: 15px;
+  font-family: "Grandstander", cursive;
+}
+
+.login_button:hover {
+  background-color: #4a69bd;
+  cursor: pointer;
+}
+
+.login_button:active {
+  background-color: #4a69bd;
+  cursor: pointer;
+}
+
+.login_form {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.login_form > .login_form_username,
+.login_form_email,
+.login_form_password,
+.login_form_password2 {
+  margin: 5px;
+  border-radius: 10px;
+  height: 40px;
+  outline-width: 0;
+  font-size: 20px;
+  font-family: "Grandstander", cursive;
+}
+
+.login {
+  display: grid;
+  grid-template-rows: 0.5fr 4fr;
+  margin: 0 auto;
+  padding: 20px;
+
+  background-color: #f7f8f8;
+}
+
+.login_title {
+  display: grid;
+  height: 130px;
+  text-align: center;
+  font-family: "Grandstander", cursive;
+  color: #4a69bd;
+  grid-template-rows: 0.5fr 1fr;
+}
+
+.login_title h1 {
+  /* font-weight: bolder; */
+}
+
+.login_title_logo {
+  height: 80px;
+  text-align: center;
+}
+
+.login_redirectMessage h2 {
+  text-align: center;
+  margin-top: 20px;
+  color: #222323;
+}

@@ -1,0 +1,48 @@
+.navbar_eddieLogo {
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 0;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: 5fr 1fr 1fr;
+  font-family: "Grandstander", cursive;
+  background-color: #222323;
+  width: 100%;
+  margin-bottom: -5px;
+}
+
+.navbar_RegisterNav {
+  text-align: center;
+  padding-top: 50px;
+}
+.navbar_RegisterNav a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar_RegisterNav a:hover {
+  text-decoration: none;
+  color: #0641ad;
+  transition: 0.3s;
+}
+
+.navbar_LoginNav {
+  text-align: center;
+  padding-top: 50px;
+}
+.navbar_LoginNav a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar_LoginNav a:hover {
+  text-decoration: none;
+  color: #0641ad;
+  transition: 0.3s;
+}
+
+.navbar_hr {
+  border-top: 8px solid #0641ad;
+}
